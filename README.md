@@ -8,7 +8,8 @@ Just scan the QR code below:
 ![Website QR Code](./qr-code.png)
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/culjak-luka/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://lukaculjak.com)
+<a href="https://www.linkedin.com/in/culjak-luka/"><img src="./linkedin.png" height="28" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://lukaculjak.com"><img src="./favicon.png" height="28" alt="Portfolio" /></a>
 
 </div>
