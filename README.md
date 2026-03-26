@@ -7,3 +7,4 @@ Just scan the QR code below:
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/culjak-luka/)
+- [Portfolio](https://lukaculjak.com)
