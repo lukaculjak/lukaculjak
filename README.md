@@ -9,12 +9,12 @@ Just scan the QR code below:
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/culjak-luka/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/culjak-luka/" style="display:inline-block; padding:10px; border-radius:50%; background:#f0f0f0;">
+  <img src="./linkedin.png" height="32" alt="LinkedIn" />
 </a>
-&nbsp;
-<a href="https://lukaculjak.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+&nbsp;&nbsp;
+<a href="https://lukaculjak.com" style="display:inline-block; padding:10px; border-radius:50%; background:#f0f0f0;">
+  <img src="./favicon.png" height="32" alt="Portfolio" />
 </a>
 
 </div>
