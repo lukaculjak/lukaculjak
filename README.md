@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hola amigo
+# こんにちは、私の名前はルカです。
 
 ## Visit my portfolio website
 Just scan or click on the QR code below:
